@@ -9,5 +9,5 @@ MVC-Libros es una aplicación web desarrollada para gestionar libros y autores u
 - **Interfaz de Usuario**: Utiliza Bootstrap para una interfaz responsiva y cómoda.
 - **Operaciones AJAX**: Integra Axios para realizar operaciones CRUD sin necesidad de recargar la página.
 
-## Estructura del Proyecto
+
 
